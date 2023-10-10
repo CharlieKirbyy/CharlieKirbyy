@@ -5,7 +5,7 @@
 - <b>Java:</b>
   - [Holiday Destinations](https://github.com/CharlieKirbyy/Holiday-Destinations)
 - <b>SQL:</b>
-
+  - [Housing Database](https://github.com/CharlieKirbyy/HousingDatabase)
 - <b>Python:</b>
 
  

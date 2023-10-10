@@ -18,5 +18,5 @@
 [<img align="left" alt="CharlieKirby | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: [https://www.instagram.com/charliekirby_/]
-[linkedin]: [https://www.linkedin.com/in/charliekirby001/]
+[instagram]: https://www.instagram.com/charliekirby_/
+[linkedin]: https://www.linkedin.com/in/charliekirby001/

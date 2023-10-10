@@ -2,13 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Python:</b>
+
 - <b>Java:</b>
   - [Holiday Destinations](https://github.com/CharlieKirbyy/Holiday-Destinations)
 - <b>SQL:</b>
   - [Housing Database](https://github.com/CharlieKirbyy/HousingDatabase)
-- <b>Python:</b>
-
- 
 
 <h2>📃 Cerifications:</h2>
 

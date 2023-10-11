@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python:</b>
-
+  - [Creating an AI within a game of Connect 4](https://github.com/CharlieKirbyy/Connect4AI)
 - <b>Java:</b>
   - [Holiday Destinations](https://github.com/CharlieKirbyy/Holiday-Destinations)
   - [Days of The Year](https://github.com/CharlieKirbyy/DaysOfTheYear/tree/main)

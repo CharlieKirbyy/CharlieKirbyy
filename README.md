@@ -6,6 +6,7 @@
 
 - <b>Java:</b>
   - [Holiday Destinations](https://github.com/CharlieKirbyy/Holiday-Destinations)
+  - [Days of The Year](https://github.com/CharlieKirbyy/DaysOfTheYear/tree/main)
 - <b>SQL:</b>
   - [Housing Database](https://github.com/CharlieKirbyy/HousingDatabase)
 

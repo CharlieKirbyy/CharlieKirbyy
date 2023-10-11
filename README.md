@@ -1,4 +1,4 @@
-<h1>Hi, I'm Charlie! <br/><a href="https://github.com/CharlieKirbyy">Programmer</a>, <a href="https://www.linkedin.com/in/charliekirby001/">Professional</a></h1>
+<h1>Hey, I'm Charlie! <br/><a href="https://github.com/CharlieKirbyy">Programmer</a> and <a href="https://www.linkedin.com/in/charliekirby001/">Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

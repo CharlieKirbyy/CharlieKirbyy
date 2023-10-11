@@ -11,7 +11,7 @@
   - [Housing Database](https://github.com/CharlieKirbyy/HousingDatabase)
 
 <h2>📃 Certifications:</h2>
-Computer Science MSc* (December 2023)
+ <b> Computer Science MSc* (December 2023) </b>
 <br/> - Programming in Java
 <br/> - Modelling & Verification Techniques
 <br/> - Relational & Object-Oriented Databases

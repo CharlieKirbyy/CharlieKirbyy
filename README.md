@@ -10,7 +10,7 @@
 - <b>SQL:</b>
   - [Housing Database](https://github.com/CharlieKirbyy/HousingDatabase)
 
-<h2>📃 Cerifications:</h2>
+<h2>📃 Certifications:</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
